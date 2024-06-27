@@ -1,1 +1,2 @@
 # hyperparameter-tuning-using-gridsearchcv
+I learned how to use GridSearchCV, a technique that automates the process of tuning hyperparameters by searching for the best combination of parameters from a specified grid of values. This approach helps optimize the performance of machine learning models by systematically evaluating different parameter combinations and selecting the ones that yield the best results based on predefined evaluation metrics such as accuracy, precision, or others relevant to the specific task.
